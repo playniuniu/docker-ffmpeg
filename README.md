@@ -9,7 +9,7 @@ This is docker for alpine ffmpeg, it can be used as command line
 2. Alise ffmpeg
 
     ```bash
-    alise myffmpeg="docker run --rm -t -v YOUR_VOLUME:/data/ playniuniu/ffmpeg ffmpeg"
+    alias myffmpeg="docker run --rm -t -v YOUR_VOLUME:/data/ playniuniu/ffmpeg ffmpeg"
     ```
 
 3. Run it
